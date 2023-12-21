@@ -45,12 +45,15 @@ Results from Yolo v5 :
 ![image](https://github.com/akshatsingh523/Underwater-Object-Detection/assets/49590899/1123e6a0-3613-4635-a426-3bc8652964c0)
 
 Results from Yolo v7:
-![WhatsApp Image 2023-12-18 at 16 50 54_2a9dd8d7](https://github.com/akshatsingh523/Underwater-Object-Detection/assets/49590899/f7629346-0d3b-4bd6-8619-92347b86e9f0)
+![image](https://github.com/akshatsingh523/Underwater-Object-Detection/assets/49590899/c0056a2b-1aa7-4a19-82f0-29fba5910c39)
 
 Results from Yolo v8:
 ![image](https://github.com/akshatsingh523/Underwater-Object-Detection/assets/49590899/6f4a6942-98e8-42b9-8efc-ae23f65f1e9a)
 
 final results comparision :
+
+
+
 ![image](https://github.com/akshatsingh523/Underwater-Object-Detection/assets/49590899/b7a108cd-db46-4acd-950f-d2c3f1afc235)
 
 
