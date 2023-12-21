@@ -38,11 +38,22 @@ Results:
 Achieved a Mean Average Precision (mAP) score of 84.109% at a 50% confidence level, indicating the model's ability to detect waste objects reliably.
 Attained a mAP score of 55.231% at a 95% confidence level, demonstrating the model's robustness in detecting waste even with higher confidence thresholds.
 
-Results from YOLO V5 :
+Results from Yolo v4:
+![image](https://github.com/akshatsingh523/Underwater-Object-Detection/assets/49590899/d12574e1-49ad-4716-931c-a4480c8c3a15)
+
+Results from Yolo v5 :
 ![image](https://github.com/akshatsingh523/Underwater-Object-Detection/assets/49590899/1123e6a0-3613-4635-a426-3bc8652964c0)
 
-Results from YOLO V8:
+Results from Yolo v7:
+![WhatsApp Image 2023-12-18 at 16 50 54_2a9dd8d7](https://github.com/akshatsingh523/Underwater-Object-Detection/assets/49590899/f7629346-0d3b-4bd6-8619-92347b86e9f0)
+
+Results from Yolo v8:
 ![image](https://github.com/akshatsingh523/Underwater-Object-Detection/assets/49590899/6f4a6942-98e8-42b9-8efc-ae23f65f1e9a)
+
+final results comparision :
+![image](https://github.com/akshatsingh523/Underwater-Object-Detection/assets/49590899/b7a108cd-db46-4acd-950f-d2c3f1afc235)
+
+
 
 
 
